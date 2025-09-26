@@ -1,0 +1,23 @@
+{
+  "name": "calamari-updates",
+  "version": "1.0.0",
+  "description": "\"# Calamari-Updates\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastraZ/Calamari-Updates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EastraZ/Calamari-Updates/issues"
+  },
+  "homepage": "https://github.com/EastraZ/Calamari-Updates#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
